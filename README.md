@@ -10,9 +10,9 @@
  ⚡ Fun fact: O design e tecnologia fazem parte da minha rotina desde os 11 anos<br>
 
 
-## Olá, me chamo Caroline e sou uma iniciante em Desenvolvimento FrontEnd!<br>
+## Olá, me chamo Caroline e sou iniciante em Desenvolvimento FrontEnd!<br>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/carolinesilvacer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinesilvacer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesilvacer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
