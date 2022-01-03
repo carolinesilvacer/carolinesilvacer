@@ -4,13 +4,13 @@
 **carolinesilvacer/carolinesilvacer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## ♡ Olá, me chamo Caroline e sou iniciante em Desenvolvimento FrontEnd!<br>
 
- 🌱 Estou começando meus estudos em Javascript, e já tenho uma base em HTML e CSS<br>
+ 🌱 Estou começando meus estudos em Javascript, e já tenho uma base em HTML e CSS.<br>
  📫 Como me contatar: Pelo meu e-mail listado nos ícones abaixo!<br>
- ⚡ Fun fact: O design e tecnologia fazem parte da minha rotina desde os 11 anos<br>
+ ⚡ Fun fact: O design e tecnologia fazem parte da minha rotina desde os 11 anos.<br>
+<hr>
 
-
-## Olá, me chamo Caroline e sou iniciante em Desenvolvimento FrontEnd!<br>
 <div align="center">
   <a href="https://github.com/carolinesilvacer">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=carolinesilvacer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
