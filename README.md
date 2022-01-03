@@ -6,9 +6,10 @@
 
 ## ♡ Olá, me chamo Caroline e sou iniciante em Desenvolvimento FrontEnd!<br>
 
- 🌱 Estou começando meus estudos em Javascript, e já tenho uma base em HTML e CSS.<br>
+ 📚 Estou começando meus estudos em Javascript, e já tenho uma base em HTML e CSS.<br>
  📫 Como me contatar: Pelo meu e-mail listado nos ícones abaixo!<br>
  ⚡ Fun fact: O design e tecnologia fazem parte da minha rotina desde os 11 anos.<br>
+ 📱 Estudante de UI/UX Design.
 <hr>
 
 <div align="center">
